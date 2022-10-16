@@ -51,6 +51,6 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-# Ignore PA4 test output
+# Ignore PA5 Part1 test output
 out*
 err*
