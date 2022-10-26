@@ -8,9 +8,9 @@
 /*
  * hint at the start of each field check if the first character in the field
  * is a double quote, if not do the code processing from PA4
- * if the first character is a double code add code to process the quoted field.
+ * if the first character is a double quote add code to process the quoted field.
  * it is often easier to just have two disinct sections of code one for
- * unquoted fields and one for quoted ifields than to try and merge them into
+ * unquoted fields and one for quoted fields than to try and merge them into
  * one code body and use flag variables. the logic gets hard to read
  * and hard to debug when merged. This is just a suggestion.
  */ 
